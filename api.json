@@ -1,0 +1,25 @@
+```json
+{
+    "records": {
+        "profiles": [{
+            "FirstName": "",
+            "LastName": "",
+            "Gender": "",
+            "Latitude": "",
+            "Longitude": "",
+            "CreditCardNumber": "",
+            "CreditCardType": "",
+            "Email": "",
+            "DomainName": "",
+            "PhoneNumber": "",
+            "MacAddress": "",
+            "URL": "",
+            "UserName": "",
+            "LastLogin": "",
+            "PaymentMethod": ""
+        }, ...]
+    },
+    "status": "",
+    "size": ""
+}
+```
